@@ -9,8 +9,13 @@ Week 1 Lab Report
 ![Screenshot (214)](https://user-images.githubusercontent.com/97714738/149594721-b847e8d6-c182-4abb-9cb1-eb031589cfe0.png)
 * Then I opened VSCode (as an administrator) and entered the command ssh cs15lwi22zz@ieng6.ucsd.edu replacing zz with the numbers in my cse15l account
 ![Screenshot (215)](https://user-images.githubusercontent.com/97714738/149594908-ce42b428-dd59-4a24-9ca8-878cb7f38590.png)
+* When logging in VS Code will prompt you to enter your password
+* Enter the password and respond "yes" to the prompt that is output
 
 3. Trying some commands
+* Enter some commands into the terminal and take note of the output
+* Try `ls`, `ls -lat`, `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`, etc.
+![Screenshot (217)](https://user-images.githubusercontent.com/97714738/149595641-02271338-7868-4ea8-9b06-3e565f4b7ff8.png)
 
 
 Lab 1
