@@ -19,6 +19,15 @@
 
 4. Moving files with `scp`
 
+5. Setting an ssh key
+* Enter the command `ssh-keygen`
+* When asked to enter file copy and paste the path in the parentheses
+![Screenshot (219)](https://user-images.githubusercontent.com/97714738/149596505-37b3b2a5-9a5b-4a05-bbd7-d9dcd2eaac5f.png)
+* Enter the command `ssh cs15lwi22zz@ieng6.ucsd.edu` with your course specific numbers and enter your password
+* Enter `mkdir .ssh` then logout
+* Finally enter scp with the same path as earlier
+![Screenshot (222)](https://user-images.githubusercontent.com/97714738/149596667-b3356a2b-9feb-4d44-8a4e-ac1455aa541f.png)
+
 
 Lab 1
 ssh login
