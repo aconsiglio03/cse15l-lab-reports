@@ -17,6 +17,8 @@
 * Try `ls`, `ls -lat`, `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`, etc.
 ![Screenshot (217)](https://user-images.githubusercontent.com/97714738/149595641-02271338-7868-4ea8-9b06-3e565f4b7ff8.png)
 
+4. Moving files with `scp`
+
 
 Lab 1
 ssh login
