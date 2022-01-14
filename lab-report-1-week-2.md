@@ -33,6 +33,12 @@
 * Finally enter scp with the same path as earlier
 ![Screenshot (222)](https://user-images.githubusercontent.com/97714738/149596667-b3356a2b-9feb-4d44-8a4e-ac1455aa541f.png)
 
+6. Optimizing Remote Running
+* Using shortcuts you can optimize running time
+* Adding commands in quotes in the terminal after your ssh login will run them automatically after sign in
+* Using semicolons in between commands allows you to run multiple commands in the same line
+![Screenshot (225)](https://user-images.githubusercontent.com/97714738/149597655-58f07aee-6155-436d-81a1-15494427a621.png)
+
 
 Lab 1
 ssh login
