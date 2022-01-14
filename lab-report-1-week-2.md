@@ -1,4 +1,4 @@
-Week 1 Lab Report
+** # Week 1 Lab Report **
 1. Download VS Studio Code
 * Visit [VS Studio Code](https://code.visualstudio.com/) and download the version specific to your operating system
 * Allow the program to make changes to your device
