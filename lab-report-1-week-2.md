@@ -4,6 +4,7 @@
 * Allow the program to make changes to your device
 ![Screenshot (212)](https://user-images.githubusercontent.com/97714738/149594512-b2872969-2512-4394-93c4-935c77cf27d7.png)
 
+
 2. Remotely Connect
 * First I installed OpenSSH onto my device using Powershell
 ![Screenshot (214)](https://user-images.githubusercontent.com/97714738/149594721-b847e8d6-c182-4abb-9cb1-eb031589cfe0.png)
@@ -12,10 +13,12 @@
 * When logging in VS Code will prompt you to enter your password
 * Enter the password and respond "yes" to the prompt that is output
 
+
 3. Trying some commands
 * Enter some commands into the terminal and take note of the output
 * Try `ls`, `ls -lat`, `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`, etc.
 ![Screenshot (217)](https://user-images.githubusercontent.com/97714738/149595641-02271338-7868-4ea8-9b06-3e565f4b7ff8.png)
+
 
 4. Moving files with `scp`
 * Create a file WhereAmI.java and save it to the correct directory
@@ -23,6 +26,7 @@
 * If no errors, login to your account using ssh and enter `ls`
 * The file should be saved in the home directory
 ![Screenshot (224)](https://user-images.githubusercontent.com/97714738/149597220-5640f9d6-dd2c-47b1-837b-409c60ec57ec.png)
+
 
 5. Setting an ssh key
 * Enter the command `ssh-keygen`
@@ -33,11 +37,15 @@
 * Finally enter scp with the same path as earlier
 ![Screenshot (222)](https://user-images.githubusercontent.com/97714738/149596667-b3356a2b-9feb-4d44-8a4e-ac1455aa541f.png)
 
+
 6. Optimizing Remote Running
 * Using shortcuts you can optimize running time
 * Adding commands in quotes in the terminal after your ssh login will run them automatically after sign in
 * Using semicolons in between commands allows you to run multiple commands in the same line
 ![Screenshot (225)](https://user-images.githubusercontent.com/97714738/149597655-58f07aee-6155-436d-81a1-15494427a621.png)
+
+
+
 
 
 Lab 1
