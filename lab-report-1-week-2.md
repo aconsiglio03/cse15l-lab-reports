@@ -10,7 +10,7 @@ Week 1 Lab Report
 * Then I opened VSCode (as an administrator) and entered the command ssh cs15lwi22zz@ieng6.ucsd.edu replacing zz with the numbers in my cse15l account
 ![Screenshot (215)](https://user-images.githubusercontent.com/97714738/149594908-ce42b428-dd59-4a24-9ca8-878cb7f38590.png)
 
-
+3. Trying some commands
 
 
 Lab 1
