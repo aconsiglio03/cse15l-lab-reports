@@ -18,6 +18,11 @@
 ![Screenshot (217)](https://user-images.githubusercontent.com/97714738/149595641-02271338-7868-4ea8-9b06-3e565f4b7ff8.png)
 
 4. Moving files with `scp`
+* Create a file WhereAmI.java and save it to the correct directory
+* Enter `scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/` and then your password
+* If no errors, login to your account using ssh and enter `ls`
+* The file should be saved in the home directory
+![Screenshot (224)](https://user-images.githubusercontent.com/97714738/149597220-5640f9d6-dd2c-47b1-837b-409c60ec57ec.png)
 
 5. Setting an ssh key
 * Enter the command `ssh-keygen`
