@@ -9,3 +9,5 @@ Creating new repository.
 2. Dos
 3. Tres
 New edit to be committed
+
+VS Code is working and committing new changes
