@@ -44,6 +44,11 @@
 * Using semicolons in between commands allows you to run multiple commands in the same line
 ![Screenshot (225)](https://user-images.githubusercontent.com/97714738/149597655-58f07aee-6155-436d-81a1-15494427a621.png)
 
+# 7. Making Remote Running Even More Pleasant
+* Including entering my password and using the up arrow to use a previous command, it took me 14 keystrokes to compile and run WhereAmI.java
+![Screenshot (249)](https://user-images.githubusercontent.com/97714738/151631868-d1e0ef4a-a7d6-45fa-b57a-c789149f6a75.png)
+
+
 
 
 
