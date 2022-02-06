@@ -45,8 +45,10 @@
 ![Screenshot (225)](https://user-images.githubusercontent.com/97714738/149597655-58f07aee-6155-436d-81a1-15494427a621.png)
 
 # 7. Making Remote Running Even More Pleasant
-* Including entering my password and using the up arrow to use a previous command, it took me 14 keystrokes to compile and run WhereAmI.java
-![Screenshot (249)](https://user-images.githubusercontent.com/97714738/151631868-d1e0ef4a-a7d6-45fa-b57a-c789149f6a75.png)
+* Including entering my password and using the up arrow to use a previous command, it took me 31 keystrokes to copy the file to the server, login, and then compile and run WhereAmI.java
+![Screenshot (262)](https://user-images.githubusercontent.com/97714738/152665330-843bd471-c28b-4d9c-83e6-1ba03b4bf5c3.png)
+![Screenshot (263)](https://user-images.githubusercontent.com/97714738/152665336-4fda5898-ab34-4049-b603-89577260c323.png)
+
 
 
 
