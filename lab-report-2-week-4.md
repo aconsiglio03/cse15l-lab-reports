@@ -26,6 +26,7 @@ The symptom was the code outputs an IndexOutOfBoundsException because the code t
 [Test File](https://github.com/aconsiglio03/markdown-parse/blob/main/test-file8.md)
 
 Symptom:
+
 ![Screenshot (274)](https://user-images.githubusercontent.com/97714738/153339173-e8ee7b36-df0c-4e47-a592-e7a697dc6446.png)
 
 
