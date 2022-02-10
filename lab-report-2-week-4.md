@@ -25,4 +25,8 @@ The symptom was the code outputs an IndexOutOfBoundsException because the code t
 
 [Test File](https://github.com/aconsiglio03/markdown-parse/blob/main/test-file8.md)
 
+Symptom:
+![Screenshot (274)](https://user-images.githubusercontent.com/97714738/153339173-e8ee7b36-df0c-4e47-a592-e7a697dc6446.png)
+
+
 The symptom was the code outputs an IndexOutOfBoundsException. This was caused by the link being at the first index in the markdown file, so when looking for the image indicator, the index goes to -1. The change to the code made it so that the program doesn't check to see if the image indicator exists if the nextOpenBracket variable equals 0.
