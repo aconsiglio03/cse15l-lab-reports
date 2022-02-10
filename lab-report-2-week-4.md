@@ -1,5 +1,5 @@
 # 1.
-![Screenshot (267)](https://user-images.githubusercontent.com/97714738/153323319-d05bc26b-2e94-448c-8bf4-8b593edabf27.png)
+![Screenshot (270)](https://user-images.githubusercontent.com/97714738/153325728-7b6ea480-4247-481d-8d84-95422277b15e.png)
 
 [Test File](https://github.com/aconsiglio03/markdown-parse/blob/main/test-file2.md)
 
