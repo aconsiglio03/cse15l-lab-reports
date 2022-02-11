@@ -6,6 +6,7 @@ Edited with VS Code
 
 ## ssh Command Login Using Alias
 ![Screenshot (277)](https://user-images.githubusercontent.com/97714738/153679471-73c10258-7b6d-4e22-bd72-f1c21494812a.png)
+
 (Kept alias as ieng6)
 
 ## scp Command Using Alias
