@@ -1,4 +1,4 @@
-Hello, world!
+Lab Report Index
 
 [Lab Report 1](https://aconsiglio03.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
