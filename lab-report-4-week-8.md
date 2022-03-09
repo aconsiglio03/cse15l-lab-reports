@@ -4,6 +4,7 @@
 
 [Group Reviewed MarkdownParse](https://github.com/nseyoum/CSE15L-Platypus)
 
+# My Implementation
 # Snippet 1
 
 ## Expected Output:
@@ -42,3 +43,19 @@
 ![Screenshot (319)](https://user-images.githubusercontent.com/97714738/157551255-8d59a98e-ff22-4db3-959c-87a3efdfa53c.png)
 
 
+# Other Implementation
+## Test 1
+![Screenshot (317)](https://user-images.githubusercontent.com/97714738/157551549-ac879f79-786b-4146-b32a-6d1aa06d869f.png)
+
+## Test 2
+![Screenshot (318)](https://user-images.githubusercontent.com/97714738/157551579-28afe2e8-55a6-42eb-bad4-da1ef7a30e45.png)
+
+## Test 3
+![Screenshot (319)](https://user-images.githubusercontent.com/97714738/157551598-7afdd577-6046-4300-ad9b-7d0c5bda36ea.png)
+
+# Response
+1. Snippet 1 had a faulty output partially because of not checking for brackets within brackets. This could be fixed in under 10 lines of code using a stack (as suggested by the group that reviewed our code). For each open bracket, it could be pushed onto the stack, and for each closed, it could be popped from the stack.
+
+2. Snippet 2 had a similar issue, with parentheses and brackets within the links. This can also be fixed with the implementation stated before, using a stack.
+
+3. Snippet 3 had an issue with the output because my code doesn't check for empty spaces or long stretches. If I were to check to make sure there were no spaces within the link, this issue could be fixed.
